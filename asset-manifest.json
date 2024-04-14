@@ -1,12 +1,15 @@
 {
   "files": {
-    "main.js": "/theta-tau-assassin/static/js/main.e1316fec.js",
+    "main.css": "/theta-tau-assassin/static/css/main.9522e675.css",
+    "main.js": "/theta-tau-assassin/static/js/main.f910c1ee.js",
     "static/js/453.419a5d54.chunk.js": "/theta-tau-assassin/static/js/453.419a5d54.chunk.js",
     "index.html": "/theta-tau-assassin/index.html",
-    "main.e1316fec.js.map": "/theta-tau-assassin/static/js/main.e1316fec.js.map",
+    "main.9522e675.css.map": "/theta-tau-assassin/static/css/main.9522e675.css.map",
+    "main.f910c1ee.js.map": "/theta-tau-assassin/static/js/main.f910c1ee.js.map",
     "453.419a5d54.chunk.js.map": "/theta-tau-assassin/static/js/453.419a5d54.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.e1316fec.js"
+    "static/css/main.9522e675.css",
+    "static/js/main.f910c1ee.js"
   ]
 }
